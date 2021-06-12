@@ -83,13 +83,8 @@ h2 {
     border-radius: 12px;
 }
 .card:hover{
-    background-color: #fff;
-    box-shadow: 8px 10px 15px lightgray,-8px -10px 15px lightgray;
-	color: #16161a;
-}
-
-.card-title:hover {
-	color:#16161a ;
+    background-color: #6e42f0;
+    box-shadow: 8px 10px 15px #7f5af0,-8px -10px 15px #7f5af0;
 }
 
 .card-footer{
